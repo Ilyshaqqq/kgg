@@ -2,3 +2,5 @@ words
 worlds
 wow
 water
+wlad
+wowa
