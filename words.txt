@@ -5,3 +5,7 @@ water
 wlad
 sunday
 monday
+
+wrong
+set
+day
