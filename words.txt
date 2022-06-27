@@ -9,3 +9,7 @@ monday
 wrong
 set
 day
+
+qwerty
+night
+late
