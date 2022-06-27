@@ -3,3 +3,5 @@ worlds
 wow
 water
 wlad
+sunday
+monday
